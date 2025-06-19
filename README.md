@@ -40,5 +40,3 @@ An interactive virtual **Drum Kit** built using **HTML**, **CSS**, and **JavaScr
    open index.html
 ## Author
    Naniveesh Raj – @nanny04
-## License
-   This project is open-source and available under the MIT License.
