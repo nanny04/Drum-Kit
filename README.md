@@ -40,4 +40,4 @@ An interactive virtual **Drum Kit** built using **HTML**, **CSS**, and **JavaScr
    open index.html
 ## Author
    Naniveesh Raj – @nanny04
-   Connect with me on [GitHub](https://github.com/nanny04), [LinkedIn](https://www.linkedin.com/in/nadimpelli-naniveeshraj/)
+   Connect with me on [GitHub](https://github.com/nanny04) | [LinkedIn](https://www.linkedin.com/in/nadimpelli-naniveeshraj/)
